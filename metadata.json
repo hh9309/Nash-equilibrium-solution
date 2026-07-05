@@ -1,0 +1,6 @@
+{
+  "name": "纳什均衡求解与博弈演化",
+  "description": "集成离散博弈、古诺模型、多阶段博弈与演化博弈的学术级求解与可视化工作台，配备 AI 决策诊断与学术报告导出功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
